@@ -17,12 +17,12 @@
 }
 
 @font-face {
-  font-family: lucida handwriting;
-  src: url(fonts/Lucida\ Handwriting\ Italic.ttf);
+  font-family: 'lucida_handwriting';
+  src: url(fonts/Lucida_Handwriting_Italic.ttf);
 }
 
 html {
-  font-family: lucida handwriting;
+  font-family: lucida_handwriting;
   line-height: 1.15;
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
