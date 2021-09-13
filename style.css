@@ -16,6 +16,11 @@
   background: rgb(100, 100, 100, 0.5);
 }
 
+@font-face {
+  font-family: lucida handwriting;
+  src: url(fonts/Lucida\ Handwriting\ Italic.ttf);
+}
+
 html {
   font-family: lucida handwriting;
   line-height: 1.15;
